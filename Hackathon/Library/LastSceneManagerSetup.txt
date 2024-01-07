@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Vedanta.unity
+- path: Assets/Scenes/Ajitesh.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
